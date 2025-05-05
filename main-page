@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stay Safe - Awareness Campaign</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Stay Safe - Our Priority</h1>
+    <nav>
+      <ul>
+        <li><a href="#tips">Safety Tips</a></li>
+        <li><a href="#resources">Resources</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="tips">
+    <h2>Safety Tips for Everyone</h2>
+    <ul>
+      <li><strong>Always be aware of your surroundings:</strong> Pay attention to what's going on around you.</li>
+      <li><strong>Trust your instincts:</strong> If something feels wrong, remove yourself from the situation.</li>
+      <li><strong>Know emergency contacts:</strong> Make sure you have important numbers stored in your phone or on hand.</li>
+      <li><strong>Stay connected:</strong> Let someone know where you are and who you're with, especially if you're going somewhere new.</li>
+      <li><strong>Look out for each other:</strong> Be a good friend, and if someone is in danger, make sure to help or call for assistance.</li>
+    </ul>
+  </section>
+
+  <section id="resources">
+    <h2>Resources for Staying Safe</h2>
+    <p>Here are some links and resources to help you stay safe:</p>
+    <ul>
+      <li><a href="https://www.safetytips.com" target="_blank">General Safety Tips</a></li>
+      <li><a href="https://www.helpline.com" target="_blank">Emergency Helplines</a></li>
+      <li><a href="https://www.counselingservices.com" target="_blank">Counseling and Support Services</a></li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>If you ever feel unsafe or need advice, reach out to us:</p>
+    <p>Email: <a href="mailto:stay_safe@example.com">stay_safe@example.com</a></p>
+    <p>Phone: 123-456-7890</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Stay Safe Campaign. All rights reserved.</p>
+  </footer>
+</body>
+</html>
